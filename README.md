@@ -1,6 +1,6 @@
 ## Hi there, it's Keshav 👋 (Keshav Sood)
 
-### Machine Learning Enthusiast |SQL Developer | Python Developer.
+### Data Science Enthusiast |SQL Developer | Python Developer.
 
 To utilize my knowledge and ideas in this field of machine learning, and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
